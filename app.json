@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "reatc_native_app",
+    "slug": "reatc_native_app"
+  }
+}
